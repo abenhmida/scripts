@@ -6,7 +6,7 @@ This a project tp gather some util scripts for doing various things.
 
 this scripts help in generating a directory structure for a ansible playbook. in the form of 
 
-`
+```
 first_playbook
 |-- files
 |-- group_vars
@@ -21,6 +21,6 @@ first_playbook
 |-- roles
 |-- first_playbook.yml
 
-`
+```
 
 there is plenty of rooms for enhancement.
